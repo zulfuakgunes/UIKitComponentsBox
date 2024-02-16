@@ -18,6 +18,7 @@
 		6AA000D12B7E10AA00A315B9 /* LabelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AA000D02B7E10AA00A315B9 /* LabelViewController.swift */; };
 		6AA000D62B7E10AC00A315B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6AA000D52B7E10AC00A315B9 /* Assets.xcassets */; };
 		6AA000D92B7E10AD00A315B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6AA000D72B7E10AD00A315B9 /* LaunchScreen.storyboard */; };
+		6AF5E5242B7FD48D00F8299B /* PageControlViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AF5E5232B7FD48D00F8299B /* PageControlViewController.swift */; };
 		6AF858E92B7FB28600B85AA5 /* SwitchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AF858E82B7FB28600B85AA5 /* SwitchViewController.swift */; };
 		6AF858EB2B7FB74F00B85AA5 /* ActivityIndicatorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AF858EA2B7FB74F00B85AA5 /* ActivityIndicatorViewController.swift */; };
 		6AF858ED2B7FBAC300B85AA5 /* ProgressViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AF858EC2B7FBAC300B85AA5 /* ProgressViewController.swift */; };
@@ -37,6 +38,7 @@
 		6AA000D52B7E10AC00A315B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6AA000D82B7E10AD00A315B9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6AA000DA2B7E10AD00A315B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6AF5E5232B7FD48D00F8299B /* PageControlViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControlViewController.swift; sourceTree = "<group>"; };
 		6AF858E82B7FB28600B85AA5 /* SwitchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitchViewController.swift; sourceTree = "<group>"; };
 		6AF858EA2B7FB74F00B85AA5 /* ActivityIndicatorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityIndicatorViewController.swift; sourceTree = "<group>"; };
 		6AF858EC2B7FBAC300B85AA5 /* ProgressViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressViewController.swift; sourceTree = "<group>"; };
@@ -84,6 +86,7 @@
 				6AF858E82B7FB28600B85AA5 /* SwitchViewController.swift */,
 				6AF858EA2B7FB74F00B85AA5 /* ActivityIndicatorViewController.swift */,
 				6AF858EC2B7FBAC300B85AA5 /* ProgressViewController.swift */,
+				6AF5E5232B7FD48D00F8299B /* PageControlViewController.swift */,
 				6AA000D52B7E10AC00A315B9 /* Assets.xcassets */,
 				6AA000D72B7E10AD00A315B9 /* LaunchScreen.storyboard */,
 				6AA000DA2B7E10AD00A315B9 /* Info.plist */,
@@ -166,6 +169,7 @@
 				6AF858E92B7FB28600B85AA5 /* SwitchViewController.swift in Sources */,
 				6AF858ED2B7FBAC300B85AA5 /* ProgressViewController.swift in Sources */,
 				6AF858EB2B7FB74F00B85AA5 /* ActivityIndicatorViewController.swift in Sources */,
+				6AF5E5242B7FD48D00F8299B /* PageControlViewController.swift in Sources */,
 				6A41EE502B7E5940009A22C3 /* ButtonViewController.swift in Sources */,
 				6AA000D12B7E10AA00A315B9 /* LabelViewController.swift in Sources */,
 				6AA000CD2B7E10AA00A315B9 /* AppDelegate.swift in Sources */,
